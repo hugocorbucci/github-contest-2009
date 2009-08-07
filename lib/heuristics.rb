@@ -1,0 +1,1 @@
+require 'lib/heuristics/popular_projects'
